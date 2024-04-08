@@ -1,7 +1,7 @@
 ### About me
 
-- 🌱 I’m currently studying IB HL Computer Science
+- 🌱 I’m currently studying Computer Science
 - 😁 I am passionate about cyber security (particularly steganography and cryptography)
 - 🧪 I also enjoy Chemistry, Mathematics and German
-- 🧗‍♀️ Sports = rock climbing, netball and swimming
+- 🧗‍♀️ My sports include rock climbing, netball and swimming
 
